@@ -1,6 +1,6 @@
 {
   "name": "markdown-previewer",
-  "homepage": "http://{freshbash}.github.io/{Markdown-Previewer}",
+  "homepage": "http://freshbash.github.io/Markdown-Previewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
